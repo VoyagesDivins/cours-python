@@ -24,3 +24,9 @@ Annexe : git
 Et ensuite ?
 - js, ts, html, css, 
 - Framework Django
+
+todo :
+List comprehension
+File manipulation, charactere encoding
+Quelques exercices sur les formats
+réfléchir à des exercices pour contrôle de flux
