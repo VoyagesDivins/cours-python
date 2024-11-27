@@ -1,13 +1,13 @@
 0 Introduction
 1 Opérateurs logiques
-3 Chaine de caractères
-4 Listes
+2 Chaine de caractères
+3 Listes
+4 Contrôle de flux
+5 Fonctions
 
 Todo :
 
 
-Contrôle de flux
-Fonctions
 Objets
 Fichiers/Modules
 Autres structures de données : Ensemble (set) et Dictionnaire
