@@ -16,7 +16,7 @@ Erreurs et exceptions
 Classes
 Bibliothèques standard
 Environnement virtuel et paquets
-
+Regex
 
 Annexe : shell, terminal, commande
 Annexe : git
